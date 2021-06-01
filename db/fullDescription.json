@@ -1,0 +1,329 @@
+{
+    "data": [{
+            "id": 0,
+            "longDescription": {
+                "ru": "Владимир Александрович Орлов (родился 6 января 1938 года , Баку , Азербайджанская ССР ) - белорусский кинорежиссер, сценарист и писатель.",
+                "en": "Vladimir Alexandrovich Orlov (born January 6, 1938, Baku, Azerbaijan SSR) is a Belarusian film director, screenwriter and writer."
+            },
+            "bio": [{
+                    "date": "1938",
+                    "title": {
+                        "ru": "Рождение",
+                        "en": "Birth"
+                    },
+                    "text": {
+                        "ru": "Родился в Баку, Азербайджанская ССР ,",
+                        "en": "Born in Baku, Azerbaijan SSR,"
+                    }
+                },
+                {
+                    "date": "1956",
+                    "title": {
+                        "ru": "Образование",
+                        "en": "Education"
+                    },
+                    "text": {
+                        "ru": "Владимир окончил среднюю школу с медалью ( 1956 г. ), решил стать режиссером. В 1958-1963 годах учился на режиссерском факультете Белорусского государственного театрально-художественного института.",
+                        "en": "Vladimir graduated from high school with a medal (1956), decided to become a director. In 1958-1963 he studied at the directing department of the Belarusian State Theater and Art Institute."
+                    }
+                },
+                {
+                    "date": "1959",
+                    "title": {
+                        "ru": "Работа",
+                        "en": "Work"
+                    },
+                    "text": {
+                        "ru": "Владимир Александрович до 1959 года работал ассистентом режисёра.В 1965–2000 годах работал на Радио и телевидении Белорусской ССР (позднее Белоруссия), режиссер-постановщик творческого объединения «Телефильм»",
+                        "en": "Vladimir Aleksandrovich until 1959 worked as an assistant director. In 1965-2000 he worked on Radio and Television of the Belarusian SSR (later Belarus), director of the creative association Telefilm."
+                    }
+                },
+                {
+                    "date": "-",
+                    "title": {
+                        "ru": "Смерть",
+                        "en": "Death"
+                    },
+                    "text": {
+                        "ru": "-",
+                        "en": "-"
+                    }
+                }
+            ],
+            "photos": [
+                "https://мычитаем.рф/images/books/papa/lyagushki/1lyagushki.jpg",
+                "https://static.novayagazeta.ru/storage/image/9049/detail_original-e26f46dac15e3b79e1b85bc40ab1964c.jpg"
+            ],
+            "video": "gLE69917UDE",
+            "location": "!1m14!1m8!1m3!1d2283.991963262113!2d27.56149956857189!3d53.89766103680983!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x777af72cb831b828!2z0J3QsNGG0LjQvtC90LDQu9GM0L3Ri9C5INGF0YPQtNC-0LbQtdGB0YLQstC10L3QvdGL0Lkg0LzRg9C30LXQuSDQoNC10YHQv9GD0LHQu9C40LrQuCDQkdC10LvQsNGA0YPRgdGM!5e0!3m2!1sru!2sby!4v1621978018198!5m2!1sru!2sby"
+        },
+        {
+            "id": 1,
+            "longDescription": {
+                "ru": "Иосиф Васильевич Бахар (26 учеников, 1903 - умер 20.10.1937) - белорусский кинорежисёр.",
+                "en": "Iosif Vasilyevich Bakhar (26 students, 1903 - grazing 10/20/1937) - Belarusian kinarezhysor."
+            },
+            "bio": [{
+                    "date": "1934",
+                    "title": {
+                        "ru": "Самый известный фильм",
+                        "en": "The most famous film"
+                    },
+                    "text": {
+                        "ru": "Вместе с Леонидом Молчановым в 1934 году он снял фильм «Полесские Робинзоны» - экранизацию одноименного рассказа Ж. Мора о юных натуралистах .",
+                        "en": "Together with Leonid Molchanov in 1934, he shot the film 'Polesie Robinsons' - a screen version of the story of the same name by J. Mora about young naturalists."
+                    }
+                },
+
+                {
+                    "date": "1937",
+                    "title": {
+                        "ru": "Смерть",
+                        "en": "Death"
+                    },
+                    "text": {
+                        "ru": "Около 1937 кинорежисёр окончательно теряет зрение и затем умер.",
+                        "en": "Around 1937, the filmmaker finally loses his sight and then died."
+                    }
+                }
+            ],
+            "photos": [
+                "https://be.autograndad.com/storage/big/623392.jpg",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKCt4fzJwcoa1xa1oFxm1QPH2lHdwPUmB7lg&usqp=CAU"
+            ],
+            "video": "TZlK_ZUYYAE",
+            "location": "!1m18!1m12!1m3!1d6587.824641510241!2d26.81548437682705!3d50.11700397346537!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb3b250268613f3c7!2z0JTQstC-0YDQtdGGINCh0LDQvdCz0YPRiNC60L4!5e0!3m2!1sru!2sby!4v1621579745053!5m2!1sru!2sby"
+        },
+        {
+            "id": 2,
+            "longDescription": {
+                "ru": "Александр Ильич Гинзбург ( 1 марта 1907 , Рогачев , Гомельская область  - 10 марта 1972 , Москва ) - белорусский и советский кинорежиссер и оператор .",
+                "en": "Alexander Ilyich Ginzburg (March 1, 1907, Rogachev, Gomel region - March 10, 1972, Moscow) - Belarusian and Soviet film director and cameraman."
+            },
+            "bio": [{
+                    "date": "01.03.1907",
+                    "title": {
+                        "ru": "Рождение",
+                        "en": "Birth"
+                    },
+                    "text": {
+                        "ru": "Родился в Рогачев , Рогачевский уезд , Могилевская губерния , Российская Империя.",
+                        "en": "Born in Rogachev, Rogachev district, Mogilev province, Russian Empire."
+                    }
+                },
+                {
+                    "date": "1927",
+                    "title": {
+                        "ru": "Образование",
+                        "en": "Education"
+                    },
+                    "text": {
+                        "ru": " Закончил специальное и высшее образование получил в Ленинграде (Ленинградский фото-кинематографический техникум, 1927; высшее техническое, 1934)",
+                        "en": "Received a special and higher education in Leningrad (Leningrad Photo-Cinematographic College, 1927; higher technical, 1934)"
+                    }
+                },
+                {
+                    "date": "1927",
+                    "title": {
+                        "ru": "Деятельность",
+                        "en": "Activities"
+                    },
+                    "text": {
+                        "ru": "С 1927 работал кинооператором на Ленфильме. Во время войны работал в ЦОКС (Ташкент). Затем - Киностудия М. Горького (1943, затем «Союздетфильм»).В 1950-е работал на киностудии 'Беларусьфильм' . Режиссер фильмов «Одна ночь» (1962, с Э. Фаиковым), «Гиперболоид инженера Гарина» (1966, сценарий в соавторстве с И. Маневичем).",
+                        "en": "From 1927 he worked as a cameraman at Lenfilm. During the war he worked at TsOKS (Tashkent). Then - the Film Studio of M. Gorky (1943, then 'Soyuzdetfilm') In the 1950s he worked at the film studio 'Belarusfilm'. Director of the films “One Night” (1962, with E. Faikov), “The Hyperboloid of Engineer Garin” (1966, screenplay co-authored with I. Manevich)."
+                    }
+                },
+                {
+                    "date": "10.03.1972",
+                    "title": {
+                        "ru": "Смерть",
+                        "en": "Death"
+                    },
+                    "text": {
+                        "ru": "Умер внезапно от сердечного удара в холле гостиницы. Похоронен на кладбище Новодевичьем кладбище.",
+                        "en": "Died suddenly of a heart beat in the hotel lobby. Buried in the Rasu cemetery."
+                    }
+                }
+            ],
+            "photos": [
+                "https://upload.wikimedia.org/wikipedia/commons/2/2f/Alexander_Ginzburg_1980.jpg",
+                "https://www.revelartfotografia.org/wp-content/uploads/2016/06/Perfil-Eugene-Smith-1024x805.jpg",
+                "https://static01.nyt.com/images/2013/08/22/arts/22ELMORE/22ELMORE-articleLarge.jpg"
+            ],
+            "video": "gIzB6R0-4d4",
+            "location": "!1m18!1m12!1m3!1d2285.502488479875!2d26.303716015903476!3d55.05193268037169!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46dd1f5a961047ef%3A0x292933e1f2c84f12!2z0KPRgdCw0LTRjNCx0LAg0JHQuNGI0LXQstGB0LrQuNGF!5e0!3m2!1sru!2sby!4v1621580950693!5m2!1sru!2sby"
+        },
+        {
+            "id": 3,
+            "longDescription": {
+                "ru": "Петр Савельевич Василевский ( 15 May, 1922 , Семеновка село , Климовичи район , Могилевская область  - 2002 ) - белорусский прозаик , драматург , сценарист , режиссер . Член Союза кинематографистов СССР с 1967 года. Писал на белорусском и русском языках.",
+                "en": "Petr Savelievich Vasilevsky (May 15, 1922, Semyonovka selo, Klimovichi district, Mogilev region - 2002) - Belarusian prose writer, playwright, screenwriter, director. Member of the Union of Cinematographers of the USSR since 1967. He wrote in Belarusian and Russian"
+            },
+            "bio": [{
+                    "date": "1922",
+                    "title": {
+                        "ru": "Детство",
+                        "en": "Childhood"
+                    },
+                    "text": {
+                        "ru": "Петр Савельевич Василевский родился 15 мая 1922 года в Семеновка , Климовичский уезд , Гомельская губерния , РСФСР.Его отец, Савелий Михайлович, был партийным и советским работником, а мать, Мария Григорьевна, была педагогом. ",
+                        "en": "Petr Savelyevich Vasilevsky was born on May 15, 1922 in Semenovka, Klimovichi district, Gomel province, RSFSR. His father, Savely Mikhailovich, was a party and Soviet worker, and his mother, Maria Grigorievna, was a teacher."
+                    }
+                },
+                {
+                    "date": "1947",
+                    "title": {
+                        "ru": "Образование",
+                        "en": "Education"
+                    },
+                    "text": {
+                        "ru": " В 1947 году поступил в школу-студию МХАТ и в том же году перевелся на режиссерский факультет Всесоюзного института кинематографии, который окончил в 1953 году.",
+                        "en": "In 1947 he entered the Moscow Art Theater School and in the same year transferred to the directing department of the All-Union Institute of Cinematography, from which he graduated in 1953."
+                    }
+                },
+                {
+                    "date": "1942",
+                    "title": {
+                        "ru": "Война",
+                        "en": "War"
+                    },
+                    "text": {
+                        "ru": "В начале Великой Отечественной войны участвовал в боях на Карельском фронте. С 1942 г. - корреспондент армейской газеты «Истребитель Сталина». Был дважды ранен. В 1944 г. демобилизован.",
+                        "en": "At the beginning of the Great Patriotic War, he took part in battles on the Karelian front. Since 1942 - a correspondent for the army newspaper 'Fighter of Stalin'. He was wounded twice. Demobilized in 1944"
+                    }
+                },
+                {
+                    "date": "1945",
+                    "title": {
+                        "ru": "Деятельность",
+                        "en": "Activities"
+                    },
+                    "text": {
+                        "ru": "С 1945 года работал в редакции газеты «Сталинская молодежь». В 1946 году был направлен в Республиканскую партийную школу при ЦК Коммунистической партии Беларуси. В 1947 году поступил в школу-студию МХАТ и в том же году перевелся на режиссерский факультет Всесоюзного института кинематографии, который окончил в 1953 году. С 1952 года работал режиссером на киностудии « Беларусьфильм ». С 1988 г. на творческой работе.",
+                        "en": "Since 1945 he worked in the editorial office of the newspaper 'Stalin's Youth'. In 1946 he was sent to the Republican Party School under the Central Committee of the Communist Party of Belarus. In 1947 he entered the Moscow Art Theater School and in the same year transferred to the directing department of the All-Union Institute of Cinematography, from which he graduated in 1953. Since 1952 he worked as a director at the Belarusfilm film studio. Since 1988 in creative work"
+                    }
+                },
+                {
+                    "date": "2002",
+                    "title": {
+                        "ru": "Смерть",
+                        "en": "Death"
+                    },
+                    "text": {
+                        "ru": "Умер 24 февраля 2002 года.",
+                        "en": "He died on February 24, 2002."
+                    }
+                }
+            ],
+            "photos": [
+                "https://ognikavkaza.ru/images/articles/arhiv/05_2015/4512-1.jpg"
+            ],
+            "video": "eD8S6iauCek",
+            "location": "!1m18!1m12!1m3!1d2451.833350967244!2d23.655859451275273!3d52.08276347619276!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47210bb95bb85f3b%3A0xa9bf7efcabf96f3c!2z0JzQtdC80L7RgNC40LDQu9GM0L3Ri9C5INC60L7QvNC_0LvQtdC60YEgItCR0YDQtdGB0YLRgdC60LDRjyDQutGA0LXQv9C-0YHRgtGMLdCz0LXRgNC-0Lki!5e0!3m2!1sru!2sby!4v1621977866178!5m2!1sru!2sby"
+        },
+        {
+            "id": 4,
+            "longDescription": {
+                "ru": "Александр Залманович Гуткович ( 20 декабря 1920 , Аскерки , Бешенковичский район  - 1989 ) - белорусский драматург , режиссер , заслуженный артист БССР (1981). Он первым снял роман Ивана Мележа «Люди на болоте» .",
+                "en": "Alexander Zalmanovich Gutkovich (December 20, 1920, Askerki, Beshenkovichi district - 1989) - Belarusian playwright, director, Honored Artist of the BSSR (1981). He was the first to shoot a novel by Ivan Melezh, People in the Swamp."
+            },
+
+            "bio": [{
+                    "date": "1920",
+                    "title": {
+                        "ru": "Рождение",
+                        "en": "Birth"
+                    },
+                    "text": {
+                        "ru": "Александр Залманович Гуткович родился 20 декабря 1920г в Аскерки, Лепельский уезд, Витебская губерния, РСФСР.",
+                        "en": "Alexander Zalmanovich Gutkovich was born on December 20, 1920 in Askerki, Lepel district, Vitebsk province, RSFSR."
+                    }
+                },
+                {
+                    "date": "1941",
+                    "title": {
+                        "ru": "Деятельность",
+                        "en": "Activities"
+                    },
+                    "text": {
+                        "ru": "В конце того же года его призвали в Красную Армию. Служил рядовым стрелкового полка, культовым работником политотдела спецназа Ленинградского гарнизона. В мае 1941 года он был демобилизован и приехал к родителям в Бешенковичи , куда они переехали из села. Вот откуда пришла война. Вместе с родственниками был эвакуирован в Нижний Тагил , был руководителем клуба военного завода, затем военного госпиталя в Бийске . В 1942 г. мобилизован на фронт. Воевал на Прибалтийском фронте",
+                        "en": "At the end of the same year he was drafted into the Red Army. He served as an ordinary rifle regiment, a cult worker in the political department of the special forces of the Leningrad garrison. In May 1941, he was demobilized and came to his parents in Beshenkovichi, where they moved from the village. That's where the war came from. Together with his relatives, he was evacuated to Nizhny Tagil, was the head of the club of a military plant, then a military hospital in Biysk. In 1942 he was mobilized to the front. Fought on the Baltic front."
+                    }
+                },
+                {
+                    "date": "1945",
+                    "title": {
+                        "ru": "Деятельность",
+                        "en": "Activities"
+                    },
+                    "text": {
+                        "ru": "После войны поступил на актерский факультет Белорусского театрально-художественного института. Во время учебы А. Гуткович был штатным, затем внештатным корреспондентом БелТА в Минске, а в 1948-1950 годах - внештатным корреспондентом газеты «Звязда». После окончания института в 1957 году работал актером Белорусского государственного театра им . Коласа в Витебске. С 1957 г. - заведующий педагогической частью Белорусского республиканского театра юного зрителя, а с 1959 г. - режиссер Республиканской студии Белорусского телевидения.",
+                        "en": "After the war, he entered the acting department of the Belarusian Theater and Art Institute. During his studies, A. Gutkovich was a full-time, then a freelance correspondent for BelTA in Minsk, and in 1948-1950 - a freelance correspondent for the newspaper 'Zvyazda'. After graduating from the institute in 1957, he worked as an actor of the Belarusian State Theater named after I. Kolas in Vitebsk. Since 1957 - the head of the pedagogical department of the Belarusian Republican Theater for Young Spectators, and since 1959 - the director of the Republican Studio of the Belarusian Television."
+                    }
+                },
+                {
+                    "date": "1935",
+                    "title": {
+                        "ru": "Образование",
+                        "en": "Education"
+                    },
+                    "text": {
+                        "ru": "В 1935 году окончил Верховную семилетку Бешенковичского района, затем год проучился в строительном техникуме (г. Минск ), после сдачи экстерном за 8-9 классы - в Бешенковичской средней школе. Позже он стал студентом Ленинградского института инженеров промышленного строительства, но учёба в техникуме не удовлетворила А. Гутковича, потому что он всегда мечтал о сцене. Проучившись год, он начал обучение в студии Большого драматического театра им. М. Горького в Ленинграде (1938-1939). Параллельно работал вспомогательным художником театра. В 1939 году продолжил обучение на режиссерском факультете Ленинградского театрального института.",
+                        "en": "In 1935 he graduated from the Supreme Seven-Year School of the Beshenkovichi district, then he studied for a year at a construction technical school (Minsk), after passing as an external student for grades 8-9 - at the Beshenkovichi secondary school. Later he became a student at the Leningrad Institute of Industrial Construction Engineers, but studying at the technical school did not satisfy A. Gutkovich, because he always dreamed of the stage. After studying for a year, he began his studies at the studio of the Bolshoi Drama Theater. M. Gorky in Leningrad (1938-1939). In parallel, he worked as an auxiliary theater artist. In 1939, he continued his studies at the directing department of the Leningrad Theater Institute.."
+                    }
+                }
+            ],
+            "photos": [
+                "https://evrejskaja-panorama.de/epanorama/i/th/epanorama.model.Article/image/66/59/gutkowski2.jpg",
+                "https://im0-tub-by.yandex.net/i?id=4a8ffe78b40b5d12d16c2f4328dfb90d&n=13&exp=1",
+                "https://im0-tub-ru.yandex.net/i?id=947689fc4cebce32f7b755f3e81d7286&ref=rim&n=33&w=200&h=150"
+            ],
+            "video": "29hB8RwjxEM",
+            "location": "!1m18!1m12!1m3!1d38221.189050276575!2d26.640080668792763!3d53.220998317841705!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46d91c48748491fb%3A0x87827ecdf6b79be2!2z0J3QtdGB0LLQuNC2!5e0!3m2!1sru!2sby!4v1621582812538!5m2!1sru!2sby"
+        },
+        {
+            "id": 5,
+            "bio": [{
+                    "date": "1882",
+                    "title": {
+                        "ru": "Рождение",
+                        "en": "Birth"
+                    },
+                    "text": {
+                        "ru": "Иосиф Лангбард родился 6 января 1882 года в местечке Бельск Гродненской губернии Российской империи, в еврейской семье. Отец видел будущее для сына в коммерции, однако Иосиф с детства любил рисовать.",
+                        "en": "Joseph Langbard was born on January 6, 1882 in the town of Belsk, Grodno province of the Russian Empire, into a Jewish family. The father saw the future for his son in commerce, but Joseph loved to draw from childhood."
+                    }
+                },
+                {
+                    "date": "1901",
+                    "title": {
+                        "ru": "Образование",
+                        "en": "Education"
+                    },
+                    "text": {
+                        "ru": "Блестяще окончив в 1901 году местную гимназию, поступил в Одесского художественного училища, которое окончил в 1906 году.\n\nВ 1907 году переехал в Санкт-Петербург, где успешно выдержал экзамены в Высшее художественное училище при Императорской академии художеств.",
+                        "en": "Having brilliantly graduated from the local gymnasium in 1901, he entered department of the Odessa Art School, which he graduated in 1906. \n\nIn 1907 he moved to St. Petersburg, where he successfully passed the exams at the Higher Art School at the Imperial Academy of Arts at the Faculty of Architecture."
+                    }
+                },
+                {
+                    "date": "1951",
+                    "title": {
+                        "ru": "Смерть",
+                        "en": "Death"
+                    },
+                    "text": {
+                        "ru": "Скончался 3 января 1951 года в Ленинграде. Похоронен на Серафимовском кладбище.",
+                        "en": "He died on January 3, 1951 in Leningrad. Buried at the Serafimovskoye cemetery."
+                    }
+                }
+            ],
+            "photos": [
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Josef_Langbard_Minsk_Watercolor_Museum_of_History_of_Minsk.jpg/492px-Josef_Langbard_Minsk_Watercolor_Museum_of_History_of_Minsk.jpg",
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Belarus-Minsk-Independence_Square-1.jpg/1280px-Belarus-Minsk-Independence_Square-1.jpg",
+                "https://ru.wikipedia.org/wiki/Лангбард,_Иосиф_Григорьевич#/media/Файл:Belarus-Minsk-Academy_of_Sciences-5.jpg"
+            ],
+            "video": "dlQIlW3V-iU",
+            "location": "!1m18!1m12!1m3!1d2351.0352480238143!2d27.54551951558926!3d53.895577441130584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46dbcfc0484a0855%3A0xc2f0e6e69a0501c8!2z0J_Qu9C-0YnQsNC00Ywg0J3QtdC30LDQstC40YHQuNC80L7RgdGC0Lg!5e0!3m2!1sru!2sby!4v1621584213428!5m2!1sru!2sby"
+        }
+    ]
+}

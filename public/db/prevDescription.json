@@ -1,0 +1,95 @@
+{
+    "data": [{
+            "id": 0,
+            "name": {
+                "ru": "Владимир Александрович Орлов",
+                "en": "Vladimir Alexandrovich Orlov"
+            },
+            "dob": "06.01.1938",
+            "dod": "Наше время",
+            "description": {
+                "ru": "Белорусский кинорежиссер, сценарист и писатель.",
+                "en": "Belarusian film director, screenwriter and writer."
+            },
+            "photoUrl": "https://litinstitut.ru/sites/default/files/holiday/vlad_orlov.jpg"
+        },
+        {
+            "id": 1,
+            "name": {
+                "ru": "Иосиф Васильевич Бахар",
+                "en": "Joseph Vasilievich Bakhar"
+            },
+            "dob": "26.01.1903",
+            "dod": "1937",
+            "description": {
+                "ru": "белоруский кинорежисёр",
+                "en": "Belarusian film director."
+            },
+            "photoUrl": "https://be.autograndad.com/storage/small/623392.jpg"
+        },
+        {
+            "id": 2,
+            "name": {
+                "ru": "Александр Ильич Гинзбург",
+                "en": "Alexander Ilyich Ginzburg"
+            },
+            "dob": "01.03.1907",
+            "dod": "10.03.1972",
+            "description": {
+                "ru": "Белорусский и советский кинорежиссер и оператор",
+                "en": "Belarusian and Soviet film director and cameraman."
+            },
+            "photoUrl": "https://gdb.rferl.org/4EE2215B-C430-441E-8E58-C77972CF1581_cx0_cy38_cw0_w1200_s.jpg"
+        },
+        {
+            "id": 3,
+            "name": {
+                "ru": "Петр Савельевич Василевский",
+                "en": "Petr Savelievich Vasilevsky"
+            },
+            "dob": "15.05.1922",
+            "dod": "24.02.2002",
+            "description": {
+                "ru": "Cоветский акинорежиссёр. Народный кинорежиссёр СССР ",
+                "en": "Soviet kinomaker. People's kinomaker of the USSR"
+            },
+            "photoUrl": "https://www.kino-teatr.ru/acter/foto/sov/47891.jpg"
+        },
+        {
+            "id": 4,
+            "longDescription": {
+                "ru": "Александр Залманович Гуткович ( 20 декабря 1920 , Аскерки , Бешенковичский район  - 1989 ) - белорусский драматург , режиссер , заслуженный артист БССР",
+                "en": "Alexander Zalmanovich Gutkovich (December 20, 1920, Askerki, Beshenkovichi district - 1989) - Belarusian playwright, director, Honored Artist of the BSSR."
+            },
+            "name": {
+                "ru": "Александр Залманович Гуткович",
+                "en": "Alexander Zalmanovich Gutkovich"
+            },
+            "dob": "1920",
+            "dod": "1989",
+            "description": {
+                "ru": "Белорусский драматург , режиссер , заслуженный артист БССР.",
+                "en": "Belarusian playwright, director, Honored Artist of the BSSR"
+            },
+            "photoUrl": "https://ritual.by/upload/iblock/a39/Abeliovich-L.M..jpg"
+        },
+        {
+            "id": 5,
+            "longDescription": {
+                "ru": "Ио́сиф Григо́рьевич Ла́нгбард (6 января 1882, Бельск, Гродненская губерния, Российская империя — 3 января 1951, Ленинград, РСФСР, СССР) — белорусский советский кинорежиссёр, заслуженный деятель искусств Белорусской ССР (1934), обладатель Гран-при Всемирной выставки в Париже, 1937, доктор наук (с 1939 года).",
+                "en": "Iosif Grigorievich Langbard (January 6, 1882, Belsk, Grodno province, Russian Empire - January 3, 1951, Leningrad, RSFSR, USSR) - Belarusian Soviet кинорежиссёр, Honored Art Worker of the Belarusian SSR (1934), winner of the Grand Prix at the World Exhibition in Paris, 1937."
+            },
+            "name": {
+                "ru": "Иосиф Григорьевич Лангбард",
+                "en": "Joseph G. Langbard"
+            },
+            "dob": "06.01.1882",
+            "dod": "03.01.1951",
+            "description": {
+                "ru": "Одни из выдающихся зодчих Европы XX века",
+                "en": "Some of the most prominent architects of Europe of the XX century"
+            },
+            "photoUrl": "https://r1.mt.ru/r28/photoF4E2/20796352127-0/jpg/bp.jpeg"
+        }
+    ]
+}
